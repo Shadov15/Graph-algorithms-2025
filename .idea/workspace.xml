@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32a144bf-abc3-4be5-b93f-33fb2b97d391" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Wikkk/Documents/Studia/Alg grafowe" value="34BWE9dLDH9Hu4f5U67aK8JAZMG" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="chat-panel" value="GPT-5 mini" />
+      <entry key="agent-panel" value="GPT-5 mini" />
+    </selectedModels>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lab1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="34BWE9dLDH9Hu4f5U67aK8JAZMG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.checker.executor": "Run",
+    "Python.connectivity.executor": "Run",
+    "Python.connectivity_slow.executor": "Run",
+    "Python.edmonds-karp.executor": "Debug",
+    "Python.example.executor": "Run",
+    "Python.example_1.executor": "Run",
+    "Python.ford-fulkerson.executor": "Run",
+    "Python.graph_NX.executor": "Run",
+    "Python.lexBFS.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main2.executor": "Run",
+    "Python.main3.executor": "Run",
+    "Python.stoer-wagner.executor": "Run",
+    "Python.testy.executor": "Run",
+    "Python.zad1.executor": "Debug",
+    "Python.zad2.executor": "Run",
+    "Python.zad3.executor": "Run",
+    "Python.zad4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Wikkk/Documents/Studia/Alg grafowe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Wikkk\Documents\Studia\Alg grafowe\lab7" />
+      <recent name="C:\Users\Wikkk\Documents\Studia\Alg grafowe\project1" />
+      <recent name="C:\Users\Wikkk\Documents\Studia\Alg grafowe\lab2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32a144bf-abc3-4be5-b93f-33fb2b97d391" name="Changes" comment="" />
+      <created>1760687331123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760687331123</updated>
+      <workItem from="1760687332373" duration="4005000" />
+      <workItem from="1760693788257" duration="699000" />
+      <workItem from="1763110838844" duration="3199000" />
+      <workItem from="1763393977749" duration="20000" />
+      <workItem from="1763546742184" duration="6206000" />
+      <workItem from="1763554892565" duration="17000" />
+      <workItem from="1764080698481" duration="2977000" />
+      <workItem from="1764319629977" duration="6207000" />
+      <workItem from="1764346517747" duration="3000" />
+      <workItem from="1764416137237" duration="8698000" />
+      <workItem from="1764592287569" duration="159000" />
+      <workItem from="1765373539376" duration="6372000" />
+      <workItem from="1765529261350" duration="138000" />
+      <workItem from="1765529408973" duration="4298000" />
+      <workItem from="1765640815815" duration="17878000" />
+      <workItem from="1765730873102" duration="11317000" />
+      <workItem from="1765802937821" duration="1430000" />
+      <workItem from="1768504312370" duration="1987000" />
+      <workItem from="1768553476206" duration="4987000" />
+      <workItem from="1768834850711" duration="126000" />
+      <workItem from="1769158122019" duration="4186000" />
+      <workItem from="1769537944328" duration="65000" />
+      <workItem from="1770289681308" duration="9916000" />
+      <workItem from="1770724097063" duration="2083000" />
+      <workItem from="1770726213514" duration="598000" />
+      <workItem from="1772632763183" duration="182000" />
+      <workItem from="1773392269987" duration="101000" />
+      <workItem from="1775751701729" duration="425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Alg_grafowe$main3.coverage" NAME="main3 Coverage Results" MODIFIED="1763547567761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$graph_NX.coverage" NAME="graph_NX Coverage Results" MODIFIED="1768556685645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab7" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$example_1.coverage" NAME="example_1 Coverage Results" MODIFIED="1765803653989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project1" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$testy.coverage" NAME="testy Coverage Results" MODIFIED="1770290137273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project2" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1763547287917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$connectivity_slow.coverage" NAME="connectivity_slow Coverage Results" MODIFIED="1765374181718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$lexBFS.coverage" NAME="lexBFS Coverage Results" MODIFIED="1769159368825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab5,6" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$checker.coverage" NAME="checker Coverage Results" MODIFIED="1768555472768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab5,6" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$zad1.coverage" NAME="zad1 Coverage Results" MODIFIED="1769159372792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab5,6" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$zad4.coverage" NAME="zad4 Coverage Results" MODIFIED="1769162324707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab5,6" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$stoer_wagner.coverage" NAME="stoer-wagner Coverage Results" MODIFIED="1765530462456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab3" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$ford_fulkerson.coverage" NAME="ford-fulkerson Coverage Results" MODIFIED="1764321115919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1769162209049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab7" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$zad3.coverage" NAME="zad3 Coverage Results" MODIFIED="1769162317743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab5,6" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$example.coverage" NAME="example Coverage Results" MODIFIED="1770725778223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project2" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$connectivity.coverage" NAME="connectivity Coverage Results" MODIFIED="1764324311429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab3" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$main.coverage" NAME="main Coverage Results" MODIFIED="1765803036914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Alg_grafowe$edmonds_karp.coverage" NAME="edmonds-karp Coverage Results" MODIFIED="1769158615780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
